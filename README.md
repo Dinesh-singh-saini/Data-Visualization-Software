@@ -1,4 +1,4 @@
-# 📊 Chart Visualizer
+# 📊 Data Visualization Software
 
 A simple Java-based **data visualization tool** that allows users to input data and generate **Pie, Bar, and Line charts** using **JFreeChart**.
 
