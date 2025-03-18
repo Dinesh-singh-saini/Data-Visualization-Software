@@ -32,6 +32,14 @@ cd Data-Visualization-Software
 ### 2️⃣ Compile and Run
 
 ## 🎨 Screenshots
+### 📊 Pie Chart Example
+![Pie Chart](https://github.com/Dinesh-singh-saini/Data-Visualization-Software/blob/master/Screenshots/Screenshot%202025-03-19%20002152.png)
+
+### 📊 Bar Chart Example
+![Bar Chart](https://github.com/Dinesh-singh-saini/Data-Visualization-Software/blob/master/Screenshots/Screenshot%202025-03-19%20002648.png)
+
+### 📊 Line Chart Example
+![Line Chart](https://github.com/Dinesh-singh-saini/Data-Visualization-Software/blob/master/Screenshots/Screenshot%202025-03-19%20002701.png)
 
 
 ## 📜 Usage
